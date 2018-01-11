@@ -6,6 +6,7 @@ import PostPreview from "./cms-preview-templates/post";
 import ProductsPreview from "./cms-preview-templates/products";
 import ValuesPreview from "./cms-preview-templates/values";
 import ContactPreview from "./cms-preview-templates/contact";
+import TestPreview from "./cms-preview-templates/test";
 
 
 // Example of creating a custom color widget
